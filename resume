@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> MY RESUME.....</title>
+</head>
+<body>
+<h1><i>RESUME</i></h1><hr>
+<h1>DHRUVA SHARMA</h3>
+<h3>PERSONAL DETAILS</h2>
+<p>NAME - Dhruva Sharma</br> 
+ FATHER'S NAME - Kamal Kishor Sharma</br>
+MOTHER'S NAME - Rekha Sharma
+</br> DATE OF BIRTH - 23/02/1999
+ </p>
+<h3>QUALIFICATION</h3>
+<table border=5> 
+<th>
+<td><h4>Qualification</h4></td>
+     <td><h4>Institution</h4></td>
+     <td><h4>Year</h4></td> 
+      <td><h4>Percentage</h4></td>
+<td><img src="image/y.jpeg" style="width:150px"> </td>
+</th>
+
+<tr> <td>1.</td>
+     <td>Metriculation</td></br>
+     <td>Kendriya Vidyalaya Bulandshahr
+      <a href ="test.html">mytest</a></td>
+     <td>2014</td>
+
+     <td colspan="2"> 9.4 cgpa</td>
+</tr>
+<tr><td>2.</td>
+     <td>Class 12</td>
+     <td>Kendriya Vidyalaya Bulandshahr
+     <a href ="http://www.kendriyavidyalayabsr.ac.in">myschool</a></td></td>
+     <td>2016</td>
+     <td colspan="2">88.6 %</td>
+</tr>
+
+<tr><td>3.</td>
+     <td>B.Sc. 1 year</td>
+     <td>Gautam Buddha University
+<a href ="http://www.gbu.ac.in">myuniversity</a></td>
+     <td>2017</td>
+     <td colspan="2">8.26 sgpa</td>
+<tr>
+</table>
+
+
+
+</body>
+</html>
